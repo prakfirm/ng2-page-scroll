@@ -23,9 +23,6 @@
     "prepublish": "npm run compile && npm run bundle:create",
     "test": "protractor protractor.conf.js"
   },
-  "main": "bundles/ng2-page-scroll.umd.js",
-  "module": "ng2-page-scroll.js",
-  "typings": "ng2-page-scroll.d.ts",
   "keywords": [
     "angular2",
     "angularjs",
